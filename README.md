@@ -20,11 +20,11 @@
 > 
 > Open the command prompt inside the extracted folder and run:
 >
-> `py main.py`
+> `py BypassZapretRoblox.py`
 > 
 >  or
 > 
-> `python main.py`
+> `python BypassZapretRoblox.py`
 
 # Obxod Roblox
 
